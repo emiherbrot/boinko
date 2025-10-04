@@ -242,20 +242,20 @@ section h3 {
     text-align: center;
 }
 
-/* Schedule Section */
+/* sponsor Section */
 
-.schedule {
+.sponsor {
     background: #ffffff;
 }
 
-.schedule-grid {
+.sponsor-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 2rem;
     margin-top: 2rem;
 }
 
-.schedule-card {
+.sponsor-card {
     background: white;
     padding: 2rem;
     border-radius: 8px;
@@ -264,27 +264,27 @@ section h3 {
     border-left: 4px solid #85B09C;
 }
 
-.schedule-card h3 {
+.sponsor-card h3 {
     font-size: 1.3rem;
     color: #85B09C;
     margin-bottom: 1rem;
     font-weight: 600;
 }
 
-.schedule-card .time {
+.sponsor-card .time {
     font-size: 1.1rem;
     font-weight: 500;
     color: #1a1a1a;
     margin-bottom: 0.5rem;
 }
 
-.schedule-card .class-type {
+.sponsor-card .class-type {
     font-weight: 400;
     margin-bottom: 0.5rem;
     color: #666;
 }
 
-.schedule-card .location {
+.sponsor-card .location {
     color: #999;
     font-size: 0.9rem;
 }
@@ -784,7 +784,7 @@ section h3 {
         background-attachment: scroll;
     }
     
-    .schedule-grid {
+    .sponsor-grid {
         grid-template-columns: 1fr;
     }
     
@@ -843,7 +843,7 @@ section h3 {
         font-size: 1rem;
     }
     
-    .schedule-card,
+    .sponsor-card,
     .expect-item,
     .team-member {
         padding: 1.5rem;
