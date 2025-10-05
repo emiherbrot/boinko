@@ -408,7 +408,7 @@ section h3 {
     letter-spacing: -0.25px;
 }
 
-.team-member .belt {
+.team-member .role {
     font-weight: 600;
     color: #85B09C;
     margin-bottom: 0.5rem;
@@ -417,7 +417,7 @@ section h3 {
     letter-spacing: 1px;
 }
 
-.team-member .role {
+.team-member .belt {
     font-weight: 400;
     margin-bottom: 1.5rem;
     color: #666;
@@ -426,6 +426,13 @@ section h3 {
 }
 
 .team-member .bio {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    font-weight: 300;
+}
+
+.team-member .contact-bio{
     color: #555;
     font-size: 0.95rem;
     line-height: 1.6;
