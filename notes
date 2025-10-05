@@ -1,0 +1,33 @@
+   <!-- Sponsor Section -->
+    <section id="sponsor" class="sponsor">
+        <div class="container">
+            <h2>Sponsor us</h2>
+            <h3>Investing possibilities</h3>
+            <div class="sponsor-grid">
+                <div class="sponsor-card">
+                    <h3>Small investor</h3>
+                    <p class="time">0-GBP1000</p>
+                    <!-- <p class="class-type">Fundamentals Class</p> -->
+                    <p class="location">Sports Centre and Gym, University of Cambridge</p>
+                </div>
+                <div class="sponsor-card">
+                    <h3>Medium investor</h3>
+                    <p class="time">1000-5000</p>
+                    <!-- <p class="class-type">Technique Class</p> -->
+                    <p class="location">Sports Centre and Gym, University of Cambridge</p>
+                </div>
+                <div class="sponsor-card">
+                    <h3>Big investor</h3>
+                    <p class="time">5000-10000</p>
+                    <!-- <p class="class-type">Open Mat</p> -->
+                    <p class="location">Sports Centre and Gym, University of Cambridge</p>
+                </div>
+                <div class="sponsor-card">
+                    <h3>Xtra huge investor</h3>
+                    <p class="time">10000+</p>
+                    <!-- <p class="class-type">Advanced Training</p> -->
+                    <p class="location">Sports Centre and Gym, University of Cambridge</p>
+                </div>
+            </div>
+        </div>
+    </section>
