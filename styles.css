@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     line-height: 1.6;
     color: #1a1a1a;
     background: #f8f9fa;
@@ -155,7 +155,7 @@ body {
 }
 
 .hero-content h1 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 3.5rem;
     font-weight: 900;
     margin-bottom: 1.5rem;
@@ -208,7 +208,7 @@ section {
 }
 
 section h2 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 2.5rem;
     font-weight: 800;
     margin-bottom: 2rem;
@@ -337,7 +337,7 @@ section h3 {
 }
 
 .team h2 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 2.5rem;
     font-weight: 800;
     margin-bottom: 3rem;
@@ -400,7 +400,7 @@ section h3 {
 }
 
 .team-member h3 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 1.4rem;
     margin-bottom: 0.5rem;
     color: #1a1a1a;
@@ -483,7 +483,7 @@ section h3 {
 }
 
 .card-header h3 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: white;
@@ -570,7 +570,7 @@ section h3 {
 }
 
 .faq-question h3 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 1.1rem;
     color: #1a1a1a;
     font-weight: 600;
@@ -649,7 +649,7 @@ section h3 {
 }
 
 .footer-column h3 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Exo 2', sans-serif;
     font-size: 1.2rem;
     font-weight: 700;
     margin-bottom: 1.5rem;
