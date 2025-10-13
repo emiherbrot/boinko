@@ -75,7 +75,10 @@
                     <h3>Polina Sevastyanova</h3>
                     <p class="belt">MPhil in Quantitative Climate and Environmental Science</p>
                     <p class="role">Polar Scientist</p>
-                    <p class="bio"> Bio </p>
+                    <button class="toggle-bio">Bio</button>
+                    <div class="bio-text">
+                        Polina is a polar scientist working on ice sheet modelling and environmental systems.
+                    </div>
                 </div>
                 <div class="team-member">
                     <div class="member-photo">
@@ -261,5 +264,15 @@
     </footer>
 
     <script src="script.js"></script>
+    <script>
+        document.querySelectorAll('.toggle-bio').forEach(button => {
+            button.addEventListener('click', () => {
+            const bioText = button.nextElementSibling;
+            const isVisible = bioText.style.display === 'block';
+            bioText.style.display = isVisible ? 'none' : 'block';
+            button.textContent = isVisible ? 'Bio' : 'Hide Bio';
+            });
+        });
+    </script>
 </body>
 </html></html>
