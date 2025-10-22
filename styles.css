@@ -565,13 +565,15 @@ section h3 {
 div.gallery {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 div.gallery-item {
   margin: 5px;
+  flex: 0 1 220px;
   border: 1px solid #ccc;
   width: 180px;
+  max-width: 320px;
 }
 
 div.gallery-item:hover {
