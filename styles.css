@@ -914,3 +914,11 @@ video {
     display: block;
     margin: 0 auto;
 }
+
+#map img {
+    width: 100%;
+    max-width: 800px; /* adjust this value to make the map larger/smaller */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
