@@ -917,7 +917,7 @@ video {
 
 #map img {
     width: 100%;
-    max-width: 800px; /* adjust this value to make the map larger/smaller */
+    max-width: 1000px; /* adjust this value to make the map larger/smaller */
     height: auto;
     display: block;
     margin: 0 auto;
